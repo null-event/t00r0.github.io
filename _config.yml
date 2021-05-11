@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: T00r0 Relaj0
 description: This is the shoddy work in progress of an even more shoddy guy
-plugins: jekyll-feed
+plugins: 
+  - jekyll-feed
 
