@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: T00r0 Relaj0
-description: Feel free to disregard this page until I put more work into it...WHATS UP SNOOPZ
+description: This is the shoddy work in progress of an even more shoddy guy
+gem: jekyll-feed
+gem: jekyll-algolia
